@@ -9,7 +9,7 @@ When releasing, please follow these steps:
       - `/geckopy/setup.cfg` (line 2).
       - `/geckopy/setup.py` (line 22).
       - `/geckopy/geckopy/__init__.py` (line 10).
-      
+
     * Updated `/README.rst` date (line 14).
 4. Push the commit and confirm that the CI tool is still passing.
 5. Merge PR -> confirm that the CI tool is still passing.
